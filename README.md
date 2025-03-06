@@ -1,4 +1,4 @@
-# DSTI lab 10 - Authorization
+# DSTI lab 11 - Authorization
 
 ## Install
 

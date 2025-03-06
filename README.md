@@ -6,6 +6,11 @@
 ```bash
 git clone https://github.com/EliottElek/dsti-lab-11-authorization.git
   ```
+- Copy `.env` files:
+```bash
+cd dsti-lab-11-authorization
+cp ./supabase/.env.example ./supabase/.env && cp ./next-client/.env.example ./next-client/.env.local
+```
 - Run the project:
 ```bash
 cd dsti-lab-11-authorization
